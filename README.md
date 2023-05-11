@@ -17,6 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 Before you begin, make sure your development environment includes `Node.js` and `npm`.
+And please make sure the server side is already running (https://github.com/atrastudhi/resume-service)
 
 ### Installation
 
